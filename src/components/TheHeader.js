@@ -1,5 +1,4 @@
 import { Component } from "../core/heropy";
-import profile from "../img/profile.png";
 
 export default class TheHeader extends Component {
   constructor() {

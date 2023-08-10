@@ -1,6 +1,6 @@
 # 🎬 영화 검색 홈페이지
 
-**🌐 바로가기** : 
+**🌐 바로가기** : https://movie-app-alpha-eight.vercel.app/#/
 
 **사용 기술**
 

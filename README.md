@@ -2,24 +2,35 @@
 
 
 **🌐 바로가기** : https://movie-app-yunbiyomi.vercel.app/
+<br>
+
+**사용 API** : https://www.omdbapi.com/
 
 **사용 기술**
-
+<br>
+🌳 js branch
 <div>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </div>
+
 <br>
-
-**사용 API** : https://www.omdbapi.com/
-
+🌳 ts branch
+<div>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=javascript&logoColor=white"> 
+  <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</div>
 <br><br>
 
 ## 구현화면
 ### 1) 웹사이트 버전
 : 로딩 화면, 스켈레톤 구현
+<br>
+
 ![영화검색](https://github.com/yunbiyomi/Movie-app/assets/83996384/8013762b-56ba-4da6-be46-72da7453af24)
 <br><br>
 
